@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     border-bottom: 2px solid #ffe600;
+    margin-bottom: 50px;
 }
 
 .navbar-container {
@@ -100,4 +101,32 @@
     background-color: #fff;
     color: #000;
     border: 2px solid #ffe600;
+  }
+
+  .btn-1{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    color:  black;
+    background-color: yellow;
+  }
+
+  .description{
+    color: gray;
+  }
+
+  .heading-title{
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .cover-img{
+    height: 400px; 
+    margin-left: 250px;
+    margin-top: -150px;
+  }
+
+  .cover-section{
+    padding: 20px 80px;
+    margin-bottom: 40px;
   }
